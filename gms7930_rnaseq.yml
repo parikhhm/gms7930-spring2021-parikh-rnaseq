@@ -58,6 +58,7 @@ dependencies:
   - star=2.7.3a=0
   - stringtie=2.1.1=hc900ff6_0
   - tk=8.6.10=hed695b0_0
+  - trimmomatic=0.39=1
   - wheel=0.34.2=py_1
   - xorg-fixesproto=5.0=h14c3975_1002
   - xorg-inputproto=2.3.2=h14c3975_1002
