@@ -44,7 +44,7 @@ dependencies:
   - seqan-library=2.4.0=0
   - setuptools=40.4.3=py35_0
   - sqlite=3.28.0=h8b20d00_0
-  - star=2.7.3a=0
+  - star=2.7.1a=0
   - stringtie=2.1.1=hc900ff6_0
   - tbb=2019.9=hc9558a2_1
   - tk=8.6.10=hed695b0_0
